@@ -1,3 +1,29 @@
+# :wave: Les bases de GitHub
+
+## 🤓 le plan de cours et les finalités d'apprentissages
+
+Le but de cette leçon est d'offrir une introduction à GitHub. Des ressources supplémentaires vous seront également suggérées afin de parfaire vos apprentissages et favoriser le démarrage de vos projet sur cette plateforme. 🚀
+
+## :octocat: Git et GitHub
+
+Git est un **système de gestion du versionnement (VCS, en anglais) distribué**. C'est un outil qui facilite la gestion des changement dans votre code et favorise la collaboration et le partage. À l'aide de Git, vous pouvez suivre les changements dans votre projet de façon à conserver une copie de tout ce que avez produit et, au besoin, revenir à une version antérieure d'un projet. Git facilite aussi le développement de projets en collaboration avec d'autres personnes. Tous les membres d'un groupe peuvent collectivement contribuer à un projet commun et fusionner (*merge*) leurs modifications dans une version finale.
+
+GitHub est une initiative qui permet de tirer toute la puissance de Git tout en offrant une interface Web conviviale. GitHub est utilisé dans l'univers technologique et au-delà pour soutenir la collaboration et assurer le versionnement de projets.
+
+GitHub sert à propulser de nombreuses technologies de pointe dans le monde. Que vous souhaitiez visualiser les données ou automatiser des processus, GitHub facilite l'accès à une communauté et des outils qui peuvent vous aider à faire avancer votre projet. Cette leçon débute avec les bases de GitHub, les leçons suivantes aborderont des notions plus avancées.
+
+## :octocat: Comprendre la séquence de travail de GitHub
+
+La séquence de travail GitHub consiste en un flux de travail simple qui favorise l'expérimentation et la collaboration dans vos projets sans le risque de compromettre ou perdre les versions antérieures de vos réalisations.
+
+### Les référentiels
+
+Un référentiel est l'espace dédié à votre projet, pensez à un dossier de travail. Il contient tous les fichiers du projet et chacune de leur version. Vous pouvez travailler seul ou en équipe dans les fichiers d'un référentiel.
+
+### Le clonage
+
+
+
 # Guide d'utilisation de GitHub Classroom pour étudiants
 Introduction à GitHub pour les étudiants de l'UdeS
 
