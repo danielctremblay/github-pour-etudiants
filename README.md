@@ -1,6 +1,6 @@
-# :wave: Les bases de GitHub pour GIS 811
+# :wave: Leçon 1 : Les bases de GitHub pour GIS 811
 
-## 🤓 le plan de cours et les finalités d'apprentissages
+## 🤓 Les finalités d'apprentissages de cette leçon
 
 Le but de cette leçon est d'offrir une introduction à GitHub. Des ressources supplémentaires vous seront également suggérées afin de parfaire vos apprentissages et favoriser le démarrage de vos projet en qualité de données sur cette plateforme. 🚀
 
@@ -19,6 +19,7 @@ La séquence des opérations GitHub consiste en un flux de travail simple qui fa
 ### Les référentiels
 
 Un référentiel (*repository ou repo*) est l'espace dédié de votre projet, pensez au référentiel comme un dossier de travail. Il contient tous les fichiers du projet et chacune de leur version. Vous pouvez travailler seul ou en équipe sur les fichiers d'un référentiel.
+<img src="https://www.freecodecamp.org/news/content/images/2019/11/explanation.png"></img>
 
 ### Le clonage
 
@@ -44,27 +45,34 @@ Dans le cadre du cours GIS 811, vous aurez à utiliser principalement le clonage
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-# Guide d'utilisation de **GitHub Classroom** pour étudiants
-Introduction à **GitHub Classroom** pour les étudiants de l'UdeS. Classroom est un environnement spécifique de GitHub dédié à la gestion de classe pour les étudiants. L'utilisation de cet environnement fait partie des objectifs d'apprentissage de la gestion de l'intelligence d'affaires dans le cours GIS 811. Plus spécifiquement, on gère ici le cycle de production du profilage de données au moyen du langage SQL.
+# :wave: Leçon 2 : Un guide d'utilisation de **GitHub Classroom** pour étudiants
+
+**GitHub Classroom** est un environnement spécifique de GitHub dédié à la gestion de formation pour les étudiants. L'utilisation de cet environnement fait partie des compétences en gestion de l'intelligence d'affaires dans le cours GIS 811. Plus spécifiquement, on gère ici le cycle de production du profilage de données au moyen du langage SQL.
+
+## 🤓 Les finalités d'apprentissages de cette leçon
+
+Le but de cette leçon est d'offrir une introduction à **GitHub Classroom**. Des ressources supplémentaires vous seront également suggérées afin de parfaire vos apprentissages et favoriser le démarrage de vos projet en qualité de données sur cette plateforme.
 
 ## Étapes d'introduction
 * Créez un compte GitHub étudiant
-* Appliquez, si désiré, au Developer Pack. Cela vous permet d'expérimenter une foule de ressources technologiques, mais ces technologies ne seront pas utilisées dans le cadre du cours.
 * Téléchargez, installez et configurez votre client GitHub
-  * Client logiciel GitHub Desktop
-  * Plugiciel GitHub pour DataGrip
-  * Attention : vous devez choisir un répertoire racine pour tous vos projets de développement (peut être changé). Voir la documentation.
-* Sur ouverture un lien GitHub Classroom, sélectionnez votre identifiant Classroom (courriel) pour l’associer à votre compte étudiant GitHub.
-* Récupérez le référentiel des exercices en exécutant un « pull » ou « fetch origin ». Voir la documentation pour l’utilisation à des fins de projet.
+  * Client logiciel [GitHub Desktop](https://desktop.github.com). [Voir la documentation](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop).
+  * Plugiciel [GitHub et Git pour DataGrip](https://blog.jetbrains.com/datagrip/2018/12/11/datagrip-and-github-step-by-step-integration/)
+  * *Attention : vous devez choisir un répertoire racine pour tous vos projets de développement (peut être changé ultérieurement). [Voir la documentation](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/configuring-and-customizing-github-desktop).*
+* Suivez le lien GitHub Classroom qui vous est communiqué.
+* Sur GitHub Classroom, sélectionnez votre identifiant Classroom (courriel) pour l’associer à votre compte étudiant GitHub.
+* Récupérez le référentiel des exercices en exécutant un « *pull* » ou « *fetch origin* ». Voir la documentation pour l’utilisation à des fins de projet.
 * Complétez les exercices selon les travaux à réaliser. 
-  * Attention! Modifier directement les fichiers fournis ou ajouter les fichiers nécessaires dans les dossiers fournis
-* Exécutez un « commit » à chaque changement important. Ceci permet de garder une trace des changements effectués.
-* Exécutez un « push origin » pour renvoyer l’ensemble des changements (et l’historique) sur le serveur GitHub Classroom. Le travail pourra alors être corrigé.
-* Vous pouvez exécuter autant de « push origin » que vous le souhaiter durant une période de travail.
-* Vous pouvez également accéder à votre référentiel directement sur le site de GitHub par votre navigateur Web. Vous pouvez y modifier l’ensemble des fichiers, mais vous devez alors recopier le contenu entre MySQL Workbench et le site (moins efficace).
-* Pour l’instant, la mécanique de branchement, de récupération, de gestion des collisions et la modification manuelle de l’historique et la gestion des problèmes ne sont pas utiles.
+  * Attention! Modifiez directement les fichiers fournis ou ajouter les fichiers nécessaires dans les dossiers du projet.
+* Exécutez un « *commit* » à chaque changement important ou fin de période de travail. Ceci permet de garder une trace des changements effectués.
+* Exécutez un « *push origin* » pour téléfverser l’ensemble des changements (et l’historique) sur le serveur distant de GitHub Classroom. Le travail pourra alors être corrigé par votre enseignant.
+* Vous pouvez exécuter autant de « *push origin* » que vous le souhaitez durant une période de travail.
+* Vous pouvez également accéder à votre référentiel directement sur le site Web GitHub par l'entremise de votre navigateur Web. Vous pouvez y modifier l’ensemble des fichiers, mais vous devez alors recopier manuellement le contenu de votre client SGBDR et le site (moins efficace).
+* Les fonctionnalités avancées de la mécanique d'embranchement, de récupération d'erreur, de gestion des collisions des modifications, la modification manuelle de l’historique et la gestion des problèmes ne sont pas utiles pour ce cours.
+* Si vous êtes de nature curieuse, vous pouvez appliquer au Developer Pack. Cela vous donne accès à une foule de ressources technologiques avec lesquelles vous pouvez vous familiariser. Ces technologies ne seront cependant pas utilisées dans le cadre du cours.
 
 
-## Références
-[Référentiel GitHub pour R](https://github.com/jfiksel/github-classroom-for-students)
-[FreeCodeDemo][https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/) : Voir la figure du serveur
+## Autres ressources intéressantes
+* [Introduction à GitHub Classroom, un exemple avec R](https://github.com/jfiksel/github-classroom-for-students)(en)
+* [Tutoriel de GitHub selon la perspective étudiante](http://evantilton.com/guides/githubclass/)(en)
+
