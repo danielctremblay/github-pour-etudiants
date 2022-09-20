@@ -76,6 +76,8 @@ Le but de cette leçon est d'offrir une introduction à **GitHub Classroom**. De
 * [Introduction à GitHub Classroom, un exemple avec R](https://github.com/jfiksel/github-classroom-for-students)(en)
 * [Tutoriel de GitHub selon la perspective étudiante](http://evantilton.com/guides/githubclass/)(en)
 
-# Tâches pour cette leçon
-* Créez un fichier cip.txt avec votre cip à l'intérieur
-* Téléversez ce fichier sur GitHub Classroom (dans ce projet)
+## Tâches pour cette leçon
+* Créez un fichier cip.txt 
+* Éditez le fichier et insérez votre cip comme seul texte
+* Faites un « *commit* » de votre texte (en ajoutant un message significatif)
+* Téléversez ce fichier sur GitHub Classroom dans ce projet si vous utilisez un client GitHub
