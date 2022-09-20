@@ -31,11 +31,11 @@ L'indexation et le téléversement (*commiting and pushing*) permettent la docum
 
 Lorsqu'un ou plusieurs points de contrôle ont été ajoutés au projet vous pouvez téléverser l'ensemble des changements au référentiel distant GitHub en utilissant la commande **push**. L'indexation et le téléversement peuvent paraître nouveaux au départ, mais vous vous y ferez rapidement.
 
-### GitHub, pour aller plus loin
+### GitHub, pour aller plus loin (non requis pour GIS 811)
 
 Dans le cadre du cours GIS 811, vous aurez à utiliser principalement le clonage, l'intexation et le téléversement. Toutefois, GitHub sert d'abord la communauté de développement logiciel. Pour cette raison, il offre un ensemble de fonctionnalités dédiées à la gestion des contributions simultanées de plusieurs personnes. Si ces fonctionnalités ne sont pas en usage dans le cours, il peut être utile de connaître les concepts clés dans l'éventualité d'une collaboration avec une équipe BI ou TI. GitHub permet notamment de créer des branches (*branches*), i.e. des versions alternatives et concurrentes de votre projet, des biffurcations (*forks*), i.e. des versions alternatives et concurrentes de projets d'autres personnes et des demandes d'intégration qui permettent d'évaluer les contributions externes pour les intégrer à la version principale (*main*) d'un projet. Vous pouvez approfondir les notions de GitHub et accéder à différentes resssources en suivant les liens suivants :
 
-#### 📚  Ressources (en)
+#### 📚  Ressources (en) (non requis pour GIS 811)
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
